@@ -2,6 +2,7 @@
 Projeto gerenciamento de museu multitemático
 
 CONTEXTUALIZAÇÃO DO CASO
+
 Uma organização sem fins lucrativos pretende criar um museu 
 multitemático. Os temas exibidos serão voltados a questões que estiveram em 
 evidência nos últimos três anos ou que possivelmente estarão em evidência por 
