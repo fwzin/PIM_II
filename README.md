@@ -49,3 +49,29 @@ legislação vigente. O visitante poderá comprar ingressos para ver um tema ou
 mais, assim ao entrar no espaço reservado ao tema o visitante deverá mostrar o 
 ticket de entrada que deverá ser dado baixa no sistema. No arquivo em um 
 computador central na rede.
+
+ATIVIDADES
+
+Cada grupo de PIM deverá apresentar o projeto contemplando os seguintes 
+itens relacionamento com as disciplinas:
+
+• Com o auxílio da disciplina Fundamentos de Redes de Dados e 
+Comunicação deverá apresentar um mapa dos terminais mostrando cada 
+IP mapeado ou outra forma de comunicação;
+
+• Com base no conteúdo da disciplina de Engenharia de Software I deverá 
+definir o tipo de projeto, ciclo de vida e requisitos.
+
+• Com base no conteúdo da disciplina de Linguagem e Técnicas de 
+Programação deverá fazer os programas que iram em cada terminal, na 
+bilheteria de vendas dos tickets etc.
+
+• Com base no conteúdo da disciplina de Matemática para Computação
+deverão ser definidos os cálculos a serem feitos pelo sistema;
+
+• Com base na disciplina de Ética e Legislação Profissional deve ser 
+definida a conduta esperada dos colaboradores a missão;
+
+• Com o auxílio da disciplina de Metodologia Científica deverá ser 
+verificado como pesquisar sobre os temas propostos, referências, 
+formatação do trabalho etc.
